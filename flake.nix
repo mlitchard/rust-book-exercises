@@ -2,7 +2,7 @@
 # only `name` and `description` below.
 
 {
-  description = "My awesome Rust project";
+  description = "Rust Book Exercises";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";

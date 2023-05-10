@@ -1,8 +1,9 @@
 [package]
-authors = ["Sridhar Ratnakumar <srid@srid.ca>"]
+authors = ["Sridhar Ratnakumar <srid@srid.ca>"
+	  , "Michael Litchard <litchard.michael@gmaiul.com"]
 edition = "2018"
 # If you change the name here, you must also do it in flake.nix (and run `cargo generate-lockfile` afterwards)
-name = "rust-nix-template"
+name = "rust-book-examples"
 version = "0.1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
